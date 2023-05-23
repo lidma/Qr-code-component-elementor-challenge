@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./mobile-preview.jpg)
+![](./screenshot.png)
+![](./mobile-preview.png)
 
 
 ### Links
@@ -42,7 +42,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-For me it was very dificult to choose the right properties in css to get the body and the .card to work and be seen as the style guide declared.
+For me it was very difficult to choose the right properties in css to get the body and the .card to work and be seen as the style guide declared.
 
 At the end, i believe i did a good job with the things that i used.
 Always open to any comments
