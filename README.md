@@ -4,16 +4,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -26,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Arekkusu17/QR-code-component-challenge)
-- Live Site URL: (https://arekkusu17.github.io/QR-code-component-challenge/)
+- Solution URL: (https://github.com/lidma/Qr-code-component-elementor-challenge/tree/main/QR%20CODE)
+- Live Site URL: (https://github.com/lidma/Qr-code-component-elementor-challenge/tree/main/QR%20CODE)
 
 ## My process
 
@@ -47,25 +49,14 @@ Always open to any comments
 
 
 ```css
-.body {
-	background-color: hsl(212, 45%, 89%);
-	font-size: 15px;
-	font-family: 'Outfit', sans-serif;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	margin: 4rem;
-}
-
 .card {
-	background-color: hsl(0, 0%, 100%);
-	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-	border-radius: 0.625rem;
-	width: 200px;
-	padding: 0.9rem;
-	margin-bottom: 1rem;
-}
+      background-color:  hsl(0, 0%, 100%);
+      width: 100%;
+      max-width: 375px;
+      margin: 0 auto;
+      border-radius: 20px;
+      padding: 20px;
+      text-align: center;
 
 ```
 
@@ -77,16 +68,16 @@ The qr code could be links to a document or something along those ways. Going to
 
 ### Useful resources
 
-- [FLEXBOX FROGGY](https://flexboxfroggy.com/#es) - This helped me to understand better how to use flexbox.
+- [understanding css](https://www.taniarascia.com/) - This helped me to understand better how to use flexbox.
 
 
 ## Author
 
-- Frontend Mentor - [@Arekkusu17](https://www.frontendmentor.io/profile/Arekkusu17)
+- Frontend Mentor - [@lidma](https://www.frontendmentor.io/profile/lidma)
 
 ## Acknowledgments
 
 
 At some point i was a little stuck with setting the style for the image. And i found this video helpful.
 
-(https://www.youtube.com/watch?v=JFyMWwOxHYM&t=865s)
+(https://www.youtube.com/watch?v=G3e-cpL7ofc&t=12446s)
