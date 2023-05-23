@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Arekkusu17/QR-code-component-challenge)
-- Live Site URL: (https://arekkusu17.github.io/QR-code-component-challenge/)
+- Solution URL: (https://github.com/lidma/Qr-code-component-elementor-challenge/tree/main/QR%20CODE)
+- Live Site URL: (https://github.com/lidma/Qr-code-component-elementor-challenge/tree/main/QR%20CODE)
 
 ## My process
 
